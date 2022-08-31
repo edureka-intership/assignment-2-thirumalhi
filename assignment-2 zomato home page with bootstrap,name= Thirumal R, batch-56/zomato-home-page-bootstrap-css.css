@@ -1,0 +1,20 @@
+#font-heading{
+    font-family: 'Poppins', sans-serif;
+}
+.first-section{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("image(1).png");
+    background-size: cover;
+    height: 60vh;
+}
+#cards{
+    margin-left: 3rem;
+    display: inline-block;
+}
+#card1{
+    margin: 2rem;
+    max-width: 400px;
+    display: inline-block;
+}
+.Quick-search{
+    color: #192F60;
+}
